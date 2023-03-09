@@ -11,6 +11,14 @@
 
 
 # Text Book
+	- 479736 Chapter1_Development(14pages).pdf
+	- 327371 Chapter2_Basic_principle(13pages).pdf
+	- 354532 Chapter3_informed_consent(13pages).pdf
+	- 252876 Chapter4_risk_benefit(10pages).pdf
+	- 206590 Chapter6_vulnerable(7pages).pdf
+	- 475014 Chapter9_past(14pages).pdf
+	- 105954 แบบฟอร์ม-AF-04-04.เอกสารข้อมูลคำอธิบาย-Informstion-sheet-pdf.pdf
+
 ![[Chapter1_Development(14pages).pdf]]
 ![[Chapter2_Basic principle(13pages).pdf]]
 ![[Chapter3_informed consent(13pages).pdf]]
